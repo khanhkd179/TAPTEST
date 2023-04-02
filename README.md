@@ -9,7 +9,7 @@
 # Caculate with default condition (5 subjects and 2 divisions) :
 Fill data on table on view. Click Submit to show result on view and console like this picture.
 
-![image](https://user-images.githubusercontent.com/125273807/229348079-e3e4fad1-098a-41b8-99d6-c45cbab3f71d.png)
+![image](https://user-images.githubusercontent.com/125273807/229362778-7834fc94-dec7-4b22-b841-f4e5627fd509.png)
 
 # Custom condition (6 subjects and 3 divisions)
   + Remove English, add Vietnamese and French. Click Apply Button to apply the changes.
