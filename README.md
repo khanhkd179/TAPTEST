@@ -6,12 +6,12 @@
   + Run file run.bat or excute directly file TAPTEST.jar in cmd.
 
 
-- Caculate with default condition (5 subjects and 2 divisions) :
+# Caculate with default condition (5 subjects and 2 divisions) :
 Fill data on table on view. Click Submit to show result on view and console like this picture.
 
 ![image](https://user-images.githubusercontent.com/125273807/229348079-e3e4fad1-098a-41b8-99d6-c45cbab3f71d.png)
 
-- Custom condition (6 subjects and 3 divisions)
+# Custom condition (6 subjects and 3 divisions)
   + Remove English, add Vietnamese and French. Click Apply Button to apply the changes.
 
 ![image](https://user-images.githubusercontent.com/125273807/229348253-b1bb63a0-8690-4c00-9d85-7d1210ad5a33.png)
