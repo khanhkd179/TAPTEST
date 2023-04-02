@@ -1,9 +1,9 @@
 # TAPTEST
 Project was built on IDE Apache Netbean
-2 ways to run the application:
-  - Open it in IDE like (Netbean, IntelliJ) and run MainView.
+- 2 ways to run the application:
+  + Open it in IDE like (Netbean, IntelliJ) and run MainView.
 
-  - Run file run.bat or excute directly file TAPTEST.jar in cmd
+  + Run file run.bat or excute directly file TAPTEST.jar in cmd
 
 
 - Caculate with default condition (5 subjects and 2 divisions) :
